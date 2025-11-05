@@ -15,6 +15,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CP-er-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Competitive Programmer"/>
+</p>
+
+
 
 
 <br>
@@ -25,9 +30,9 @@
 
 - 👨‍💻 I’m a **Computer Science Student** @[Suez Canal University](http://suez.edu.eg/ar/).  
 - 🏆 **ECPC Finalist** in my first ICPC participation.  
-- 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`  
+- 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`,`Meta Contests`
 - 👨‍🏫 Serving as a **mentor** at ICPC Suez Canal University, helping others in problem-solving.  
-- 🚀 Interested in **AI, Software Engineering, Competitive Programming, and  Football**.
+- 🚀 Interested in **AI, Software Engineering, Competitive Programming**.
   
 
 ---
@@ -42,8 +47,7 @@
   <a href="https://atcoder.jp/users/mora1972"><img src="https://i.ibb.co/Q9WSjDB/logo.png" width=6% alt="AtCoder"/></a>
   &emsp; 
   <a href="https://www.codechef.com/users/mora1972"><img src="https://img.icons8.com/color/50/000000/codechef.png" width=6% alt="CodeChef"/></a>
-  &emsp; 
-  <a href="https://icpc.global/private/person/1215831/ICPCID"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" width=6% alt="ICPC"/></a>
+
 </div>
 
 ---
@@ -68,7 +72,7 @@
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width=5%> Programming languages
 
 <p align="center"> 
-  &emsp; 
+  &emsp;
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
@@ -77,10 +81,19 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
-   <a href="https://www.python.org" target="_blank">
+  <a href="https://www.java.com/" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
+  </a>
 </p>
+
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width=5%>  Frontend Development
 <p align="center"> 

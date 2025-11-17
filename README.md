@@ -6,25 +6,18 @@
   </a>
 </p>
 
-
-
-<br>
-
 - 🏫 I am a student at <a href="https://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa">`The Faculty of Computers & Informatics`</a> at <a class ="mylink" href="https://suez.edu.eg/ar/">`Suez Canal University`</a>.
 
 - 💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`and `Google Contests`.
 - 📚 I am interested in all types of software
 - 📫 Connect with Me:
-
 <p align="center">
   <a href="mailto:OmarAdel.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/omar4del"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/omar4del"><img src="https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=x&logoColor=white"/></a>
   <a href="https://youtube.com/@omar4del?si=ozALRhFaDCk73q51"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=plastic&logo=youtube&logoColor=white"/></a>
 </p>
-
 - Competitive Programming Profiles:
-
 <div align="center">
   <a href="https://codeforces.com/profile/mora1972"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width=4% alt="Codeforces"/></a>
   &emsp; 

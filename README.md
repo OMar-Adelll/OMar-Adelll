@@ -26,13 +26,13 @@
 - Competitive Programming Profiles:
 
 <div align="center">
-  <a href="https://codeforces.com/profile/mora1972"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width=6% alt="Codeforces"/></a>
+  <a href="https://codeforces.com/profile/mora1972"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" width=4% alt="Codeforces"/></a>
   &emsp; 
-  <a href="https://leetcode.com/u/OmarAdelll/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width=6% alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/OmarAdelll/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" width=4% alt="LeetCode"/></a>
   &emsp; 
-  <a href="https://atcoder.jp/users/mora1972"><img src="https://i.ibb.co/Q9WSjDB/logo.png" width=6% alt="AtCoder"/></a>
+  <a href="https://atcoder.jp/users/mora1972"><img src="https://i.ibb.co/Q9WSjDB/logo.png" width=4% alt="AtCoder"/></a>
   &emsp; 
-  <a href="https://www.codechef.com/users/mora1972"><img src="https://img.icons8.com/color/50/000000/codechef.png" width=6% alt="CodeChef"/></a>
+  <a href="https://www.codechef.com/users/mora1972"><img src="https://img.icons8.com/color/50/000000/codechef.png" width=4% alt="CodeChef"/></a>
 
 </div>
 
